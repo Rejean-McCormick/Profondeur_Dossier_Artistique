@@ -1,111 +1,82 @@
 # PROFONDEUR
 
 **Une création de Réjean McCormick**  
-*Œuvre conceptuelle et numérique — identité, signature, langage et création assistée par intelligence artificielle*
+*Œuvre conceptuelle, numérique et évolutive — identité, langage, signature et bien commun*
 
-> **La signature est l'œuvre. Les technologies en sont des manifestations. La rencontre entre les personnes en est l'horizon.**
+> **La signature est l'œuvre. Le visage n'est pas nécessaire. La rencontre entre les personnes en est l'horizon.**
 
-## Une signature qui signe des créations réelles
+## La proposition
 
-**Profondeur** prend pour matériau central la création d'une identité d'auteur : **Gustave Leblanc**, associé à la signature **« MÉCANISMES ABSTRAITS — par Gustave »** et à sa devise, **« Des idées rendues opératoires. »**
+*Profondeur* est une œuvre qui crée un auteur : **Gustave Leblanc**. À cet auteur fictif sont associés une signature, **« MÉCANISMES ABSTRAITS — par Gustave »**, une identité graphique, un espace éditorial, des publications et des réalisations techniques consultables. Sa devise est **« Des idées rendues opératoires. »**
 
-Gustave Leblanc n'est pas une personne biographique distincte. Il est une **création artistique**, dotée d'un nom, d'une présence en ligne, d'une identité visuelle, de publications et de réalisations informatiques présentées sous sa signature.
+L'auteur apparent est inventé. Les traces qu'il laisse dans le monde sont réelles. Ce déplacement constitue le noyau de l'œuvre : **créer une identité capable de signer des créations, afin d'interroger ce que signifie créer, signer, recevoir et transmettre**.
 
-Le paradoxe est volontaire : **l'auteur apparent est inventé, mais les traces publiques et les œuvres qu'il signe sont réelles**. La signature n'est pas un simple habillage de marque apposé sur un produit. Sa fabrication, son déploiement et les questions qu'elle soulève constituent le centre de *Profondeur*.
+*Profondeur* est publiquement attribuée à **Réjean McCormick**. Aucune photographie ni biographie personnelle de l'artiste n'est nécessaire à sa présentation. Cette absence est intentionnelle. Elle n'est ni une énigme à résoudre ni une promesse d'anonymat éternel : elle invite à rencontrer d'abord les idées et ce qu'elles permettent aux autres d'accomplir.
 
-L'œuvre est présentée publiquement comme une création de **Réjean McCormick**.
+## Pourquoi *Profondeur* ?
 
-## Pourquoi « Profondeur » ?
+La mise en abyme commence avec une signature. Le public découvre qu'elle désigne un auteur fictif, puis que cet auteur signe des travaux dont certains cherchent à faciliter la circulation du sens entre les langues et les cultures. L'œuvre revient ainsi sur son propre commencement : **si le langage permet de rejoindre autrui, pourquoi faudrait-il que l'image de l'auteur occupe le centre de la rencontre ?**
 
-On rencontre d'abord un nom et une signature. En les suivant, on découvre des articles, des programmes, des structures de langage et des systèmes de connaissances. En poursuivant, on revient à une question plus fondamentale : **qu'est-ce qu'un auteur, et pourquoi ramenons-nous si souvent le sens de ce qui est créé à l'identité de celui qui le signe ?**
+La démarche comporte trois profondeurs indissociables :
 
-Cette mise en abyme possède trois profondeurs :
+**Une identité créée.** Gustave Leblanc n'est pas une biographie cachée derrière un produit. Son nom, sa signature et sa présence en ligne sont des éléments de composition artistique.
 
-1. **La signature** — un auteur fictif, une identité visuelle, un nom de publication et un langage symbolique.
-2. **Les réalisations** — des recherches et des mécanismes réels, documentés, observables et, selon les cas, testables ; chacun conserve son propre nom et son propre niveau de validation.
-3. **La relation** — la possibilité d'aller au-delà du « je » pour rencontrer l'autre par le langage, sans effacer les différences entre les personnes ou les cultures.
+**Des manifestations réelles.** Les articles, les programmes et les structures de connaissance sont des réalisations ou des chantiers techniques identifiables, avec leurs preuves et leurs limites. Aucun de ces systèmes n'est le titre ou l'unique « machine » de l'œuvre.
 
-L'invention d'une identité sert ainsi à **interroger le dépassement de l'identité**. La signature attire d'abord le regard vers un auteur ; l'œuvre invite ensuite à regarder ce qui devient possible lorsque cet auteur cesse d'occuper le centre de la relation.
+**Une relation recherchée.** Le langage et les outils de connaissance ont pour horizon une compréhension plus accessible entre personnes différentes. La beauté proposée est celle de l'**harmonie sans uniformité**.
 
-## Où se trouve la beauté ?
+## La signature sans le visage
 
-La beauté recherchée dans *Profondeur* est celle des **correspondances et de l'harmonie** : entre les concepts, les langues, les disciplines et les êtres humains.
+Une signature peut devenir un objet de prestige. L'absence de visage peut même attirer davantage l'attention. *Profondeur* n'ignore pas cette objection : elle en fait une partie de sa question. **Se retirer du portrait ne prouve pas une vertu ; cela peut cependant être un geste artistique qui déplace le regard de la personne vers le don.**
 
-Une partition peut devenir musique. Un instrument de lutherie peut être une œuvre d'art tout en permettant à d'autres d'en produire. De la même manière, un ensemble de mécanismes informatiques peut être envisagé non seulement comme un outil utile, mais aussi comme **une composition conçue pour rendre possibles de nouvelles expressions et de nouvelles rencontres**.
+La possibilité d'une reconnaissance, d'une divulgation ou de retombées futures n'abolit pas le geste initial. La démarche n'exige pas que son créateur soit invisible pour toujours ; elle propose que la visibilité personnelle ne soit pas la condition préalable à la circulation de la création.
 
-L'ambition n'est pas de forcer toutes les langues à se ressembler. Elle est de rendre certaines significations partageables **sans supprimer la singularité des voix**.
+Il existe une différence éthique décisive entre **s'effacer volontairement** et **effacer le mérite d'autrui**. Cette distinction devient centrale avec l'IA : la diffusion des connaissances peut s'accroître tandis que les auteurs, artistes, traducteurs ou communautés linguistiques à l'origine des ressources risquent de perdre crédit, contrôle ou rémunération.
 
-Cette intention ne suffit pas à prouver que toutes les ambitions linguistiques sont déjà réalisées. Elle définit ce que l'œuvre cherche à faire éprouver, à questionner et, lorsque c'est possible, à mesurer.
+> **Comment dépasser l'ego sans faire disparaître les personnes ?**
 
-## Une démarche inspirée, mais inspectable
+## Pourquoi est-ce de l'art ?
 
-La création mobilise l'intuition, l'association de symboles, la découverte de correspondances parfois imprévues et une pratique intensive du développement assisté par **intelligence artificielle**.
+Cette œuvre ne prétend pas que tout programme utile est de l'art. Elle revendique une composition à plusieurs niveaux : fiction d'auteur, signature publique, symboles, langage, systèmes informatiques et effets potentiels sur la relation humaine.
 
-L'IA a servi d'**instrument de recherche, de proposition et de fabrication**. Aucun modèle d'IA nouveau n'est revendiqué comme création de l'œuvre. L'une des orientations techniques des projets associés consiste au contraire à **conserver les résultats utiles dans des structures explicites, versionnées et déterministes**, afin qu'ils puissent être consultés, vérifiés et réutilisés sans exiger chaque fois une nouvelle génération.
+Un instrument de musique peut être une œuvre de lutherie indépendamment des mélodies qu'il permet ensuite de jouer. Ici, la conception d'outils de langage participe d'une recherche analogue : **créer les conditions dans lesquelles des voix différentes peuvent se répondre**.
 
-Il n'est pas nécessaire de prétendre connaître chaque ligne d'implémentation pour revendiquer la conception d'un ensemble. Mais l'inspiration artistique ne dispense jamais de vérifier les comportements, d'indiquer les limites des tests ou de reconnaître les contributions d'autrui.
+L'art n'a pas à être techniquement inexplicable. Les mécanismes doivent pouvoir être inspectés, critiqués et corrigés ; leurs significations, leurs usages et les interprétations du public peuvent demeurer ouverts.
 
-Une part de l'œuvre demeure ouverte à la découverte : **ses mécanismes peuvent être expliqués sans que ses interprétations et ses usages futurs soient épuisés**.
+La démarche dialogue notamment avec **Tolstoï** (art et lien entre les humains), **Duchamp** (identité de signature et Rrose Sélavy), **Sol LeWitt** (idée et exécution), **Roland Barthes** (sens au-delà de la biographie) et **Claire Bishop** (la relation humaine ne devient pas automatiquement juste). Ces références situent une proposition ; elles ne l'approuvent pas personnellement.
 
-## Art des correspondances
+## L'IA : instrument, non auteur souverain
 
-*Profondeur* fait résonner l'ancienne idée de la magie comme **art de mettre en relation des signes, des formes et des connaissances**, notamment dans la tradition de **Ramon Llull** et de **Henri-Corneille Agrippa**.
+La création a mobilisé intensivement l'IA générative comme outil d'exploration, de développement et de composition. Elle ne revendique **la création d'aucun nouveau modèle d'IA**. L'un des choix techniques des projets associés consiste à conserver des résultats dans des structures déterministes, référencées et révisables, plutôt que de régénérer indéfiniment les mêmes contenus.
 
-Cette filiation est **historique, philosophique et poétique**. Elle ne suppose pas qu'une doctrine surnaturelle soit démontrée, ni que les technologies actuelles aient directement hérité de ces systèmes. Elle rappelle plutôt qu'une œuvre peut naître de l'acte de rapprocher des éléments éloignés pour en faire apparaître de nouvelles possibilités.
+Cette « cristallisation » ne certifie pas la vérité par elle-même : les sources, les droits, les tests et les contributions doivent rester explicites. L'ambition est de rendre les résultats plus transmissibles, et la connaissance davantage accessible, notamment au-delà des langues dominantes.
 
-Les mots, les lettres, les structures grammaticales, les identités sémantiques et les symboles deviennent ici des matériaux de composition.
+## Où regarder l'œuvre ?
 
-## Un dialogue avec l'histoire de l'art
-
-La proposition se situe dans une conversation avec plusieurs traditions artistiques et philosophiques :
-
-- **Léon Tolstoï**, dans *Qu'est-ce que l'art ?*, associe l'art à la communication de sentiments et à la possibilité d'un lien entre les êtres humains. Il ne considère toutefois **pas la beauté seule comme une définition suffisante de l'art**.
-- **Marcel Duchamp**, avec **Rrose Sélavy**, offre un précédent d'identité artistique créée, devenue elle-même partie de la pratique et de la signature.
-- **Sol LeWitt** montre l'importance que peut prendre l'idée ou la règle de conception par rapport à l'exécution individuelle de chaque geste.
-- **Roland Barthes** invite à ne pas réduire le sens d'une œuvre aux intentions biographiques de celui qui l'a produite.
-- **Martin Buber** aide à penser la rencontre entre un « je » et un « tu », plutôt qu'un monde organisé autour du seul moi.
-
-Ces références ne constituent ni une approbation personnelle de *Profondeur* par ces auteurs, ni un certificat de valeur artistique. Elles permettent de **situer et de discuter** la démarche.
-
-## Des manifestations publiques, pas une machine unique
-
-L'œuvre se manifeste notamment à travers des projets qui conservent leurs noms et leurs responsabilités propres :
-
-| Manifestation | Place dans la démarche |
+| Manifestation | Accès et portée |
 | --- | --- |
-| [Mécanismes Abstraits — par Gustave](https://ma-gustave.github.io/MA-Gustave/fr/) | Signature, identité graphique, espace éditorial et présentation des travaux |
-| [Publication de Gustave Leblanc](https://doi.org/10.5281/zenodo.23503438) | Réflexion sur l'orchestration humaine de l'IA et les niveaux d'abstraction ; **prépublication non évaluée par les pairs** |
-| [GF Wordbench](https://github.com/MA-Gustave/GF_Wordbench) et [GF Observatory](https://github.com/MA-Gustave/GF_Observatory) | Outils de diagnostic, de vérification et de consultation de preuves linguistiques |
-| [Kristal Framework](https://github.com/Rejean-McCormick/Kristal-Framework) | Cadre de structuration des connaissances, d'identités sémantiques et de provenance, dont plusieurs volets sont encore en développement |
-| [EncyKlopedia](https://github.com/Rejean-McCormick/EncyKlopedia) | Projet de consultation encyclopédique multilingue ; **son état public documenté ne doit pas être confondu avec un déploiement intégral certifié** |
+| **[MÉCANISMES ABSTRAITS — par Gustave](https://ma-gustave.github.io/MA-Gustave/fr/)** | La signature, sa présence visuelle et ses travaux publics |
+| **[Gustave Leblanc, *Beyond Writing Code*](https://doi.org/10.5281/zenodo.23503438)** | Prépublication méthodologique ; **non évaluée par les pairs** |
+| **[GF Wordbench](https://github.com/MA-Gustave/GF_Wordbench)** et **[GF Observatory](https://github.com/MA-Gustave/GF_Observatory)** | Outils linguistiques et consultation de preuves, avec des limites de qualification explicites |
+| **[Kristal Framework](https://github.com/Rejean-McCormick/Kristal-Framework)** | Structuration de la connaissance, identités sémantiques, provenance ; plusieurs parties au stade de spécification ou de développement |
+| **[EncyKlopedia](https://github.com/Rejean-McCormick/EncyKlopedia)** | Projet de lecture encyclopédique multilingue ; la documentation publique consultée décrit une démonstration alpha locale, non une encyclopédie mondiale déployée |
 
-Les travaux s'intéressent notamment aux liens avec **Wikidata** et à l'organisation des concepts par le **Thésaurus de l'UNESCO**. Ce référentiel apporte un cadre documentaire ; son emploi **n'implique aucun partenariat ou aval de l'UNESCO**. Les sorties d'IA, les données sources et les correspondances linguistiques ne deviennent pas automatiquement fiables par leur simple intégration à un système : leur provenance et leur validation comptent.
+Le [Thésaurus de l'UNESCO](https://vocabularies.unesco.org/) et [Wikidata](https://www.wikidata.org/) sont des références documentaires externes, **sans partenariat ni approbation institutionnelle revendiqués**. L'usage des données reste soumis à leurs règles de licence et à une vérification adaptée.
 
-Les projets ci-dessus ne sont pas présentés comme une seule application entièrement intégrée. Ils forment des **manifestations distinctes** d'une démarche de création, de formalisation et de vérification.
+## Lire le dossier
 
-## Une œuvre ouverte à la rencontre
+Ce dépôt est un **dossier d'œuvre**, et non une application logicielle. Les fichiers de `docs/` offrent plusieurs portes d'entrée :
 
-La portée de *Profondeur* ne s'arrête pas à la signature d'origine. Les projets linguistiques associés envisagent une participation de personnes qui connaissent intimement leur langue, ses usages et ses œuvres, afin d'enrichir et de corriger les ressources disponibles.
+- **[Notice d'œuvre et cartel](docs/01_NOTICE_ET_CARTEL.md)** — pour une galerie, un musée ou un catalogue.
+- **[Déclaration d'intention](docs/02_DEMARCHE_ARTISTIQUE.md)** — la voix de l'artiste.
+- **[La signature sans visage](docs/03_SIGNATURE_IDENTITE_ET_EFFACEMENT.md)** — le cœur de la mise en abyme.
+- **[L'œuvre comme don](docs/04_DON_ALTRUISME_ET_BIEN_COMMUN.md)** — l'individu, le partage, le mérite.
+- **[Justification artistique](docs/05_ARGUMENTAIRE_CRITIQUE.md)** — raisons et objections.
+- **[Les manifestations techniques](docs/08_MANIFESTATIONS_ET_PREUVES.md)** — ce qui est documenté et ce qui reste à vérifier.
+- **[Bibliographie critique](docs/10_REFERENCES_ET_SOURCES.md)** — références historiques, artistiques et sources primaires.
 
-L'harmonie recherchée n'est pas l'uniformité. Elle dépend au contraire de la possibilité pour chacun d'apporter sa voix, ses nuances, ses compétences et son désaccord.
-
-**L'effacement symbolique de l'ego ne signifie jamais l'effacement des contributeurs, des responsabilités ou des droits.**
-
-## La question que pose l'œuvre
-
-> **Peut-on créer un auteur fictif pour déplacer l'attention au-delà de l'auteur, puis donner à cette création des manifestations réelles capables de favoriser la compréhension entre les êtres humains ?**
-
-*Profondeur* ne demande pas seulement si du code peut être de l'art. Elle interroge **ce qu'une signature fait exister**, ce qu'un créateur peut découvrir sans tout avoir anticipé et ce qu'une œuvre peut rendre possible **entre** les personnes.
+[**Sommaire complet du dossier →**](docs/README.md)
 
 ---
 
-### Références pour poursuivre la lecture
-
-- **Léon Tolstoï**, [*What Is Art?* — texte intégral](https://www.gutenberg.org/files/64908/64908-h/64908-h.htm).
-- **Marcel Duchamp**, [Rrose Sélavy — Centre Pompidou](https://www.centrepompidou.fr/en/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/marcel-duchamp/rrose-selavy-lalter-ego-feminin-de-marcel-duchamp).
-- **Sol LeWitt**, [*Paragraphs on Conceptual Art*](https://rednoise.org/teaching/pdal/uploads/Paragraphs.Conceptual.Lewitt.html).
-- **Ramon Llull**, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/llull/).
-- **Henri-Corneille Agrippa**, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/agrippa-nettesheim/).
-- **Mécanismes Abstraits**, [site](https://ma-gustave.github.io/MA-Gustave/fr/) et [dépôts publics](https://github.com/MA-Gustave).
-
-*Ce texte présente une proposition artistique et des sources publiques. La fiction d'identité fait partie de l'œuvre ; elle ne remplace pas les obligations de citation, de preuve, de crédit ou de responsabilité applicables aux publications et aux logiciels.*
+*Profondeur* ne cherche pas à rendre la fiction biographiquement vraie. Elle rend **réelles les conséquences publiques d'une signature fictive**. Sa valeur esthétique et sa portée sociale demeurent ouvertes au regard, à la critique et aux usages d'autrui.
