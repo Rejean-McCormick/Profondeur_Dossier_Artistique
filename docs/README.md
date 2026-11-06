@@ -5,6 +5,8 @@
 **Type :** œuvre conceptuelle, numérique, évolutive  
 **Édition documentaire :** novembre 2026
 
+**Nouveauté de cette édition :** un dossier dédié aux [pages Wikipédia, Wikisource et Wikimedia Commons](14_WIKIPEDIA_WIKISOURCE_ET_COMMONS.md), qui distingue clairement source historique, contenu encyclopédique et traduction provisoire.
+
 Ce dossier suit une progression allant de la notice institutionnelle à l'interprétation critique, puis aux sources et aux manifestations vérifiables. Les textes ne constituent pas une demande de reconnaissance automatique : ils proposent une lecture de l'œuvre, offerte à la discussion.
 
 | Parcours | Document |
@@ -19,9 +21,12 @@ Ce dossier suit une progression allant de la notice institutionnelle à l'interp
 | **Voir les objets réels** | [08 — Manifestations et preuves](08_MANIFESTATIONS_ET_PREUVES.md) |
 | **Interroger l'IA** | [09 — IA, provenance et crédit](09_IA_PROVENANCE_ET_CREDIT.md) |
 | **Lire les sources** | [10 — Références et sources](10_REFERENCES_ET_SOURCES.md) |
+| **Étudier une pièce documentaire** | [13 — La lettre d’Agrippa (1534)](13_LA_LETTRE_D_AGRIPPA_1534.md) |
 | **Préparer la réception** | [11 — Médiation et questions critiques](11_MEDIATION_ET_QUESTIONS.md) |
 | **Présenter aux institutions** | [12 — Dossier de présentation](12_DOSSIER_INSTITUTIONNEL.md) |
 
 La version publique ne comprend ni photographie ni biographie personnelle de l'artiste. La création d'identités artistiques relève de la fiction et n'efface pas les obligations réelles de crédit, de provenance, de droits ou de responsabilité.
+
+- **[14 — Wikipédia, Wikisource et Wikimedia Commons](14_WIKIPEDIA_WIKISOURCE_ET_COMMONS.md)** — tableau des pages exactes, responsabilité éditoriale et correspondances.
 
 [← Retour au README principal](../README.md)

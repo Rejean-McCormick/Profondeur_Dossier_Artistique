@@ -25,6 +25,14 @@ Le point d'entrée est la signature **« MÉCANISMES ABSTRAITS — par Gustave �
 
 L'œuvre est **une identité créée et déployée**, non une encyclopédie renommée, une installation à produire de toutes pièces ou un logiciel unique dont le nom serait « Mécanismes Abstraits ».
 
+### Une pièce documentaire singulière : Agrippa (1534)
+
+Parmi les manifestations accessibles figure un fac-similé de la **lettre autographe d'Henri-Corneille Agrippa au Parlement de Malines, datée de 1534**, téléversé sur Wikimedia Commons par le compte Gustave LeBlanc, ainsi qu'une traduction française **assistée par IA et provisoire** sur Wikisource. Agrippa y défend sa réputation et signe personnellement sa démarche ; Gustave, auteur fictif de *Profondeur*, intervient à son tour comme signature de transmission. Cette coexistence des deux gestes — affirmation du nom et dépassement du nom — donne à la mise en abyme **un objet historique consultable**.
+
+La [notice documentaire complète](13_LA_LETTRE_D_AGRIPPA_1534.md) en donne les liens, la provenance déclarée et les limites éditoriales.
+
+**Documentation externe consultable :** [page Wikipédia d'Agrippa](https://fr.wikipedia.org/wiki/Henri-Corneille_Agrippa_de_Nettesheim) pour le contexte, [fac-similé Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Letter_from_Heinrich_Cornelius_Agrippa_to_the_Parliament_of_Mechelen,_1534.pdf) comme source primaire reproduite et [proposition de traduction sur Wikisource](https://fr.wikisource.org/wiki/Utilisateur:Gustave_LeBlanc/Lettre_Agrippa_1534) comme trace éditoriale de Gustave. Les statuts de ces trois pages sont différents ; voir la [cartographie documentaire](14_WIKIPEDIA_WIKISOURCE_ET_COMMONS.md).
+
 ## Pertinence artistique
 
 La démarche peut être située dans l'histoire de l'**art conceptuel** et des **identités artistiques construites** (Duchamp), dans des réflexions sur l'**expérience et la relation** (Tolstoï, Dewey) et dans les débats sur l'art participatif (Bourriaud et Bishop). Sa spécificité réside dans la conjugaison d'un personnage-auteur, d'une signature sans portrait et de manifestations techniques réelles.
@@ -50,6 +58,7 @@ La documentation curatoriale, l'accessibilité, la conservation d'éditions publ
 - [Déclaration d'intention](02_DEMARCHE_ARTISTIQUE.md)
 - [Justification critique](05_ARGUMENTAIRE_CRITIQUE.md)
 - [Manifestations et limites vérifiables](08_MANIFESTATIONS_ET_PREUVES.md)
+- [Étude de la lettre d’Agrippa, 1534](13_LA_LETTRE_D_AGRIPPA_1534.md)
 - [Bibliographie](10_REFERENCES_ET_SOURCES.md)
 
 ## Note de confidentialité éditoriale

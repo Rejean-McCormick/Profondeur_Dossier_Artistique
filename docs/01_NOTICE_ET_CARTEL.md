@@ -30,4 +30,6 @@ Dans un paysage où le partage de l'information peut autant favoriser l'accès q
 
 La question centrale n'est pas « le code est-il de l'art ? », mais **« pourquoi accordons-nous tant de pouvoir au nom propre, alors que la création peut devenir une relation qui nous dépasse ? »**
 
+**Pièce documentaire complémentaire :** la [lettre autographe d'Agrippa datée du 22 février 1534](https://commons.wikimedia.org/wiki/File:Letter_from_Heinrich_Cornelius_Agrippa_to_the_Parliament_of_Mechelen,_1534.pdf) et la [traduction provisoire assistée par IA publiée dans l'espace utilisateur de Gustave LeBlanc](https://fr.wikisource.org/wiki/Utilisateur:Gustave_LeBlanc/Lettre_Agrippa_1534), analysées au chapitre [13 — La lettre d'Agrippa](13_LA_LETTRE_D_AGRIPPA_1534.md).
+
 [← Index](README.md) · [Démarche artistique →](02_DEMARCHE_ARTISTIQUE.md)

@@ -10,6 +10,7 @@ La matrice ci-dessous décrit les éléments **documentés dans les dépôts pub
 | --- | --- |
 | [Site Mécanismes Abstraits](https://ma-gustave.github.io/MA-Gustave/fr/) | Présence éditoriale et visuelle publique de la signature « par Gustave » |
 | [Prépublication *Beyond Writing Code*](https://doi.org/10.5281/zenodo.23503438) | Article déposé le 20 octobre 2026 ; **prépublication non évaluée par les pairs** ; son texte GitHub vivant n'est pas nécessairement identique au PDF déposé |
+| [Lettre d'Agrippa, 1534 — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Letter_from_Heinrich_Cornelius_Agrippa_to_the_Parliament_of_Mechelen,_1534.pdf) et [traduction en espace utilisateur Wikisource](https://fr.wikisource.org/wiki/Utilisateur:Gustave_LeBlanc/Lettre_Agrippa_1534) | **Pièce documentaire de l'œuvre** : fac-similé de deux pages provenant, d'après la notice, des Archives départementales du Nord ; téléversement le 26 octobre 2026 par Gustave LeBlanc. Traduction française assistée par IA, **provisoire et non révisée par un spécialiste** ; aucune validation éditoriale institutionnelle revendiquée. [Analyse artistique](13_LA_LETTRE_D_AGRIPPA_1534.md). |
 | [GF Wordbench](https://github.com/MA-Gustave/GF_Wordbench) | Atelier implémenté de diagnostics, tests, compilations ciblées et conservation de preuves selon les profils ; un résultat candidat n'est pas une qualification linguistique complète |
 | [GF Observatory](https://github.com/MA-Gustave/GF_Observatory) | Fonctions locales de consultation de preuves, d'inventaire et de diagnostic ; ne prétend pas être une plateforme de publication intégrale |
 | [GF RGL AI Compendium](https://github.com/MA-Gustave/GF_RGL_AI_Compendium) | Référentiel d'ingénierie linguistique, explicitement **provisoire et non certifié** par compilation et revue humaine complète |
@@ -31,5 +32,11 @@ Le [Thésaurus de l'UNESCO](https://vocabularies.unesco.org/) sert de référenc
 ## Règle de mise à jour
 
 Pour chaque nouveau déploiement revendiqué, ajouter : **URL publique exacte, version, date, corpus, langues réellement couvertes, statut de validation, limites connues, droits et licence applicable**. Ne pas annoncer comme accomplie une certification dont les preuves ne sont pas disponibles.
+
+## Sources Wikimedia : trois preuves de nature différente
+
+Les liens directs vers [l'article Wikipédia sur Agrippa](https://fr.wikipedia.org/wiki/Henri-Corneille_Agrippa_de_Nettesheim), le [fac-similé historique de la lettre sur Commons](https://commons.wikimedia.org/wiki/File:Letter_from_Heinrich_Cornelius_Agrippa_to_the_Parliament_of_Mechelen,_1534.pdf) et le [brouillon de traduction sur Wikisource](https://fr.wikisource.org/wiki/Utilisateur:Gustave_LeBlanc/Lettre_Agrippa_1534) permettent de séparer **contexte encyclopédique**, **trace primaire reproduite** et **interprétation contemporaine assistée par IA**.
+
+La page Wikipédia n'est pas ici attribuée à Gustave. La traduction Wikisource appartient à l'espace utilisateur, et non à une édition critique publiée dans l'espace principal. [Voir l'inventaire des liens et de leur statut](14_WIKIPEDIA_WIKISOURCE_ET_COMMONS.md).
 
 [← Index](README.md) · [IA et provenance →](09_IA_PROVENANCE_ET_CREDIT.md)

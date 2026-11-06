@@ -34,8 +34,20 @@ Source historique : [livre blanc de Bitcoin (2008)](https://bitcoin.org/bitcoin.
 
 Référence : [Centre Pompidou — Rrose Sélavy](https://www.centrepompidou.fr/en/offre-aux-professionnels/enseignants/dossiers-ressources-sur-lart/marcel-duchamp/rrose-selavy-lalter-ego-feminin-de-marcel-duchamp).
 
+## Une signature historique, réactivée par une signature fictive
+
+Une [lettre manuscrite d'Henri-Corneille Agrippa, datée du 22 février 1534](https://commons.wikimedia.org/wiki/File:Letter_from_Heinrich_Cornelius_Agrippa_to_the_Parliament_of_Mechelen,_1534.pdf), montre l'auteur historique défendant son nom et son honneur. La reproduction a été téléversée sur Wikimedia Commons par le compte **Gustave LeBlanc**, tandis qu'une [proposition de traduction française assistée par IA](https://fr.wikisource.org/wiki/Utilisateur:Gustave_LeBlanc/Lettre_Agrippa_1534) est consultable sur sa page d'utilisateur Wikisource.
+
+Agrippa **signe sa défense** ; Gustave, auteur fictif, **signe un geste de transmission**. Cette opposition donne une forme concrète au paradoxe de *Profondeur* : on traverse une identité pour accéder à la parole d'un autre. La traduction reste provisoire et ne constitue pas une édition scientifique validée.
+
+[Lire l'analyse de la pièce documentaire](13_LA_LETTRE_D_AGRIPPA_1534.md).
+
 ## Une identité qui ouvre vers autrui
 
 Le point final n'est pas de savoir qui se trouve derrière chaque pseudonyme. Il est de découvrir **ce qu'une création peut mettre en relation lorsqu'on cesse de ramener son sens à une seule personne**. En cela, *Profondeur* associe le retrait du portrait à une recherche sur le langage, la transmission et l'attention portée aux autres.
+
+## Une signature historique et sa remise en circulation
+
+La [lettre autographe d'Agrippa, 1534, déposée sur Commons](https://commons.wikimedia.org/wiki/File:Letter_from_Heinrich_Cornelius_Agrippa_to_the_Parliament_of_Mechelen,_1534.pdf) et sa [traduction provisoire présentée sur Wikisource par Gustave LeBlanc](https://fr.wikisource.org/wiki/Utilisateur:Gustave_LeBlanc/Lettre_Agrippa_1534) prolongent le dispositif de *Profondeur*. Le geste d'Agrippa vise à défendre son nom ; le geste du personnage Gustave vise à transmettre une parole à travers les siècles. L'[article de Wikipédia sur Agrippa](https://fr.wikipedia.org/wiki/Henri-Corneille_Agrippa_de_Nettesheim) fournit le contexte de cette rencontre, sans représenter une publication de Gustave. [Analyse détaillée](13_LA_LETTRE_D_AGRIPPA_1534.md).
 
 [← Index](README.md) · [Le don →](04_DON_ALTRUISME_ET_BIEN_COMMUN.md)

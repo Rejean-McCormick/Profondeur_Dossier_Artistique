@@ -25,6 +25,28 @@ La démarche comporte trois profondeurs indissociables :
 
 **Une relation recherchée.** Le langage et les outils de connaissance ont pour horizon une compréhension plus accessible entre personnes différentes. La beauté proposée est celle de l'**harmonie sans uniformité**.
 
+## Une lettre de 1534 : la signature comme objet de transmission
+
+Une pièce rend cette mise en abyme particulièrement tangible. Le [fac-similé de la lettre d'Henri-Corneille Agrippa au Parlement de Malines, datée du 22 février 1534](https://commons.wikimedia.org/wiki/File:Letter_from_Heinrich_Cornelius_Agrippa_to_the_Parliament_of_Mechelen,_1534.pdf) a été téléversé sur Wikimedia Commons en octobre 2026 par le compte **Gustave LeBlanc**. La [page de lecture en français sur Wikisource](https://fr.wikisource.org/wiki/Utilisateur:Gustave_LeBlanc/Lettre_Agrippa_1534), située dans l'espace utilisateur de ce compte, propose une traduction **assistée par IA, encore provisoire et non révisée par un spécialiste**.
+
+Dans sa lettre autographe, Agrippa défend son **nom** et sa **réputation**. Plusieurs siècles plus tard, une **signature fictive** remet sa parole à portée de nouveaux lecteurs. L'ancien auteur qui défend son identité et le nouvel auteur dont l'identité est créée se rejoignent dans le langage.
+
+**[Découvrir cette pièce documentaire et son analyse artistique →](docs/13_LA_LETTRE_D_AGRIPPA_1534.md)
+
+### Les pages Wikimedia et Wikipédia — accès direct
+
+| Page | Ce qu'elle apporte |
+| --- | --- |
+| [**Agrippa de Nettesheim — Wikipédia**](https://fr.wikipedia.org/wiki/Henri-Corneille_Agrippa_de_Nettesheim) | Article encyclopédique sur le personnage historique et sa pensée ; **pas une publication attribuée à Gustave**. |
+| [**Lettre autographe, 1534 — Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Letter_from_Heinrich_Cornelius_Agrippa_to_the_Parliament_of_Mechelen,_1534.pdf) | Fac-similé de deux pages du manuscrit et historique du fichier, téléversé par le compte Gustave LeBlanc. |
+| [**Lettre Agrippa 1534 — Wikisource**](https://fr.wikisource.org/wiki/Utilisateur:Gustave_LeBlanc/Lettre_Agrippa_1534) | Texte de travail dans l'**espace utilisateur** de Gustave LeBlanc : traduction française assistée par IA, encore provisoire. |
+| [**Rrose Sélavy — Wikipédia**](https://fr.wikipedia.org/wiki/Rrose_S%C3%A9lavy) | Repère historique pour penser l'identité d'auteur inventée par Marcel Duchamp. |
+
+**Ces pages ne sont pas équivalentes.** Wikipédia fournit du contexte encyclopédique, Commons donne accès à un document historique et Wikisource héberge ici une proposition éditoriale non validée. Aucune de ces présences ne signifie que la Fondation Wikimedia approuve l'interprétation artistique de *Profondeur*.
+
+[**Voir la carte complète des sources et des statuts →**](docs/14_WIKIPEDIA_WIKISOURCE_ET_COMMONS.md)
+**
+
 ## La signature sans le visage
 
 Une signature peut devenir un objet de prestige. L'absence de visage peut même attirer davantage l'attention. *Profondeur* n'ignore pas cette objection : elle en fait une partie de sa question. **Se retirer du portrait ne prouve pas une vertu ; cela peut cependant être un geste artistique qui déplace le regard de la personne vers le don.**
@@ -73,7 +95,10 @@ Ce dépôt est un **dossier d'œuvre**, et non une application logicielle. Les f
 - **[L'œuvre comme don](docs/04_DON_ALTRUISME_ET_BIEN_COMMUN.md)** — l'individu, le partage, le mérite.
 - **[Justification artistique](docs/05_ARGUMENTAIRE_CRITIQUE.md)** — raisons et objections.
 - **[Les manifestations techniques](docs/08_MANIFESTATIONS_ET_PREUVES.md)** — ce qui est documenté et ce qui reste à vérifier.
+- **[La lettre d’Agrippa (1534)](docs/13_LA_LETTRE_D_AGRIPPA_1534.md)** — une source historique, sa traduction assistée par IA et la signature de Gustave.
 - **[Bibliographie critique](docs/10_REFERENCES_ET_SOURCES.md)** — références historiques, artistiques et sources primaires.
+
+- **[Wikipédia, Wikisource et Wikimedia Commons](docs/14_WIKIPEDIA_WIKISOURCE_ET_COMMONS.md)** — les pages vérifiées, les contributions documentaires et leurs statuts distincts.
 
 [**Sommaire complet du dossier →**](docs/README.md)
 
